@@ -33,7 +33,8 @@ We got three web apps:
 -----
 
 ## Issue / Bug ?
-Even a 🐱 App needs love from time to time. If you found something that is broken OR you have a great idea we should follow.<br>
+Even a 🐱 App needs love from time to time.<br>
+If you found something that is broken OR you have a great idea we should follow.<br>
 Please use: [Open an issue](https://github.com/greenido/lpa-1-issues/issues)
 <br>Also check: https://status.firebase.google.com/ just to be on the safe side.
 
