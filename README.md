@@ -19,7 +19,7 @@ We got three web apps:
   * Next, she can see what is the schedule per day.
   * After each session, the mentor should fill the notes' section. This will help us learn and improve.
   * Check this [intro video](https://youtu.be/trJcLl413hg) to the mentor app.
-  * You can use: https://bit.ly/lpa-m
+  * You can use: https://bit.ly/lpa-m (Psstt! you needs to be registered in the admin app in advance)
 
 
 ###Attendee Web App
@@ -28,14 +28,14 @@ We got three web apps:
   * Next, she can see what is the schedule per day.
   * After each session, the attendee should fill the notes' section. This will help us get better.
   * Check this [intro video](https://youtu.be/psdF_o25dJc) to the attendee app.
-  * You can use: https://bit.ly/lpa-s
+  * You can use: https://bit.ly/lpa-s (Psstt! you needs to be registered in the admin app in advance)
 
 -----
 
 ## Issue / Bug ?
 Even a 🐱 App needs love from time to time.
 Please use: [Open an issue](https://github.com/greenido/lpa-1-issues/issues)
-Also check: https://status.firebase.google.com/ just to be on the safe side.
+<br>Also check: https://status.firebase.google.com/ just to be on the safe side.
 
 -----
 ## License
