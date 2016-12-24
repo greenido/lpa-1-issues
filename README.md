@@ -18,6 +18,7 @@ We got three web apps:
   * The mentor should sign-in with their gmail account and fill their personal details.
   * Next, she can see what is the schedule per day.
   * After each session, the mentor should fill the notes' section. This will help us learn and improve.
+  * In case there is no schedule - no worries! She can click on the 'ad hoc meeting' button and still fill the notes for the session(s) she did.
   * Check this [intro video](https://youtu.be/trJcLl413hg) to the mentor app.
   * If you are using the lpa-1.firebaseapp.com App - You can use: https://bit.ly/lpa-m (Psstt! you needs to be registered in the admin app in advance)
 
