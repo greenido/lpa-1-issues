@@ -50,4 +50,4 @@ The startups will have access to your background/bio in the app, but its best to
 
 ##Most importantly
 
-Have fun! If you have fun, everyone will benefit the most! 
+Have fun! If you have fun, everyone will benefit more! 
