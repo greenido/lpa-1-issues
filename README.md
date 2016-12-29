@@ -21,6 +21,7 @@ We got three web apps:
   * In case there is no schedule - no worries! She can click on the 'ad hoc meeting' button and still fill the notes for the session(s) she did.
   * Check this [intro video](https://youtu.be/trJcLl413hg) to the mentor app.
   * If you are using the lpa-1.firebaseapp.com App - You can use: https://bit.ly/lpa-m (Psstt! you needs to be registered in the admin app in advance)
+  * Please read the [Mentor Guidelines](https://github.com/greenido/lpa-1-issues/blob/master/mentors-guidelines.md)
 
 
 ###Attendee Web App
